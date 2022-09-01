@@ -1,14 +1,13 @@
 1. Python program to check whether the given number is even or not.
 
-a=int(input("Enter the number:"))
+a=int(input("Enter the number:")) 
 if a%2==0:
     print("The Entered Number is Even")
 else:
     print("The Entered Number is Odd")
     
 
-
-2. Python program to convert the temperature in degree centigrade to Fahrenheit
+2. Python program to convert the temperature in degree centigrade to Fahrenheit.
 
 
 a=float(input())
